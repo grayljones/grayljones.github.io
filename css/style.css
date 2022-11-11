@@ -26,6 +26,7 @@ header {
   display: flex;
 }
 
+
 main {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(40%, 1fr) ) ;
@@ -161,6 +162,10 @@ img {
 .container {
   min-width: 500px;
   margin: auto;
+}
+
+a {
+  color: #723d46;
 }
 
 footer {
