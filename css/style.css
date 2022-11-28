@@ -177,4 +177,6 @@ footer {
     grid-template-columns: 1fr;
     margin: 44px auto;
   }
+  img {
+   height: 44vh;
 }
