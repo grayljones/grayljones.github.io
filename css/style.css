@@ -93,7 +93,7 @@ h2 {
 }
 
 .myButton:hover {
-	background-color:#D3D3D3;
+	background-color:#D3D3D340;
 }
 
 .myButton:active {
@@ -150,7 +150,7 @@ img {
   letter-spacing: 0.1px;
   text-align: left;
   color: #4a4a4a;
-  padding: 10px 0px 10px 10px;
+  padding: 10px;
   border-top: 1px solid #4a4a4a;
 }
 
