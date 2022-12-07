@@ -113,8 +113,6 @@ img {
   width: 100%;
 }
 
-/* Removed min-width because some mobile screens are smaller than 500px */
-
 
 .description {
   font-family: 'Montserrat';
@@ -125,12 +123,13 @@ img {
   text-align: left;
   color: #4a4a4a;
   padding: 10px;
+  border-top: 1px solid #4a4a4a;
+  /* Not sure if i should keep the line */
 
 }
 
 
 .container {
-  /*min-width: 500px;*/
   margin: auto;
 }
 
